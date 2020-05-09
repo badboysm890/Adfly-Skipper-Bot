@@ -26,3 +26,6 @@ pip3 install selenium
 
 Run main.py
 python3 main.py
+
+
+Just for fun in not responsible for any illegal Purposes
