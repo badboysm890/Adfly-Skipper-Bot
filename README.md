@@ -24,8 +24,13 @@ cd kali-anonsurf
 Requirements:
 pip3 install selenium
 
+add the list of links inside the main.py
+
+a = ["link1","link2"] <-example->
+
 Run main.py
 python3 main.py
+
 
 
 Just for fun in not responsible for any illegal Purposes
